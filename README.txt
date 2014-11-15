@@ -1,4 +1,6 @@
-
+          this template can't be in public reposotory 
+          
+          
                         SMARTADMIN GETTING STARTED
 
 ---------------------------------------------------------------------------
